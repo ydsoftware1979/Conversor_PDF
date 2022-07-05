@@ -1,0 +1,276 @@
+Telefônica Brasil S/A
+RuaLevindo Lopes,258-Parte-Funcionários
+CEP: 30140-170 -BeloHorizonte-MG
+CTC SANTO AMARO  SPM PL4
+CNPJ:02.558.157/0009-10InscEst: 062.190468.00-45
+http://www.vivo.com.br
+POLIMPORT       COMERCIO       E EXPORTACAO         LTDA
+Código  do cliente         8999 7299  4146   DV:  9
+RUA   BENTO     BRANCO      DE  ANDRADE      FILHO    344
+Número   do contrato
+JARDIM     DOM   BOSCO
+Data  de emissão           01/07/2019
+04757-000    SAO   PAULO     SP
+Data   de  vencimento      20/07/2019
+Valor  a pagar             271,41
+Número   da fatura         0867596849-0
+Estado  de instalação      Minas Gerais
+Vencimento
+Tipo de cliente            Não residencial
+CNPJ   /CPF                00436042006615
+20/07/2019
+Mês  de referência         Julho/2019
+72 13148850   00000  00000000000    10  040719
+Seu    Demonstrativo           de   Despesas
+página:  1/6
+TELEFONE(S)
+Total de  minutos    utilizados   no  mês
+3133644438,     3133338036
+Tipo  de  ligação                           em   min:seg
+RESUMO                                                                           VALOR       (R$)
+Prestadora     Telefonica
+PRESTADORA         TELEFONICA       (103  15)
+Linha   Telefônica
+Serviços                                                                                  234,99
+Local                                                              235
+Descontos                                                                                  -57,80
+Lig Locais   Cel  (VC1)                                         57:36
+Ligações   Locais                                                                            0,00
+Serviços  Eventuais                                                                         -0,42
+Prestadora     Telemar
+Ligações   Locais   para  Celular  (VC1)                                                     0,00
+TOTAL    A  PAGAR                                                                         176,77
+Minutos   Utilizados
+Nacional   Longa    Dist                                       461:30
+PRESTADORA         TELEFONICA       BRASIL     S.A
+Serviços                                                                                    39,80
+TOTAL    A  PAGAR                                                                           27,71
+PRESTADORA         TELEMAR      (103  31)
+Ligações   Nacionais    de Longa    Distância                                               66,93
+TOTAL    A  PAGAR                                                                           66,93
+TOTAL    GERAL     A PAGAR                                                                   271,41
+Atendimento        para   produtos      empresariais:
+0800-6025488        ou  acesse:
+www.vivo.com.br/meuvivo
+Para outras informações:  103  15
+Importante:mantenha opagamento  em dia eevite asuspensãoparcial/totaldosserviços ea inclusãonosorgãos deproteçãodocrédito.Para pagamentos apóso vencimentoserão cobrados encargos de
+2% e jurosde 1%  aomês  em conta futura. Oressarcimento por inoperânciaérealizado emconformidade comasResoluções: ParaSTFCartigo32°daResolução Anatelnº426/2005;para SCM artigo46°da
+ResoluçãoAnatelnº614/2013 epara TV artigo 6°daResolução 488/2007.CentraldeAtendimentoAnatel: 1331 (Geral),1332(DeficientesAuditivos) e www.anatel.gov.br.RecursodeatendimentoVIVO, ligue
+com o protocoloemmãos  para10315 e 142 para pessoas comnecessidades especiaisdefala/audição.
+
+DÉBITO    AUTOMÁTICO       EM   CONTA    CORRENTE
+DestaqueAqui
+Autenticação Mecânica
+Banco   ITAÚ,  Agência   0265
+Nome   do Cliente
+Sr. Caixa, favor não receber  pagamento   parcial.
+POLIMPORT          COMERCIO         E  EXPORTACAO            LTDA
+Código  para  Cadastramento
+Código  do cliente                                                            Número   da Fatura               Data  de Vencimento               Valor a Pagar  (R$)
+de Débito Automático
+8999    7299   4146                     899972994146-9                          0867596849-0                        20/07/2019                          271,41
+84670000002      5 71410082089      9  99729941460      4 86759684999      4
+0000001261 -0000000308 893950000436
+93400308
+página:  2/6
+0000001262 -0000000308 893950000436
+Telefônica Brasil S/A
+RuaLevindo Lopes, 258-Parte -Funcionários
+Nota    Fiscal    Fatura     de   Serviço
+CEP:30140-170 -Belo Horizonte -MG
+de   Telecomunicações              -  Mod     22                 CNPJ:02.558.157/0009-10 Insc Est:062.190468.00-45
+http://www.vivo.com.br
+Código   do Cliente
+8999 7299  4146        DV:  9
+Mês   de referência         Julho/2019
+Data  de emissão
+01/07/2019
+POLIMPORT       COMERCIO       E EXPORTACAO         LTDA
+Tipo  de cliente
+Não  residencial
+RUA   BENTO     BRANCO      DE  ANDRADE      FILHO    344
+CNPJ   /CPF
+JARDIM     DOM   BOSCO
+00436042006615
+04757-000    SAO   PAULO     SP
+Estado   da instalação
+Minas Gerais
+página: 3/6
+DETALHAMENTO           DOS   SERVIÇOS      POR    NÚMERO       TELEFÔNICO
+NFFST  3533434-MG
+Prestadora   Telefonica
+série: UK  subsérie:
+Telefonica   Brasil  S.A.  | Rua  Levindo  Lopes,   258  - Parte  - 30140-170   Belo  Horizonte   MG
+Cnpj:  02.558.157/0009-10    -  Insc.  Est.:  062.190468.00-45    |  Prestação   de serviço   de comunicação   -  CFOP  5300
+Serviços  Mensais
+Descrição                                                                                           Data  / Período              Alíquota     PIS/COFINS     Valor (R$)
+27%         3,65%
+1  Ilimitado   Brasil  Empresas   - Mensalidade   Principal   GT11  FSP                                27/05/2019   a  26/06/2019                                   70,00
+SUBTOTAL                                                                                                                                                         70,00
+Descontos
+Descrição                                                                                           Data  / Período                                          Valor (R$)
+2  Desconto   Mensalidade   Adicional   R$ 10.00                                                       27/05/2019   a  26/06/2019                                  -10,00
+3  Desconto   Mensalidade   Principal   R$ 17.90                                                       27/05/2019   a  26/06/2019                                  -17,90
+4  Desconto   Prom.  Internet  R$  29.90                                                               27/05/2019   a  26/06/2019                                  -29,90
+SUBTOTAL                                                                                                                                                        -57,80
+POLIMPORT         COMERCIO        E   EXPORTACAO         LTDA                                                          31-3333-8036
+Av.  GAL.  DAVID  SARNOFF  5160  |   | CIDADE  INDUSTRIAL
+Prestadora   Telefonica
+Serviços   Mensais
+Descrição                                                                                           Data  / Período              Alíquota     PIS/COFINS     Valor (R$)
+27%         3,65%
+5  Ilimitado   Brasil  Empresas   - Mensalidade   Adicional    GT11  FSP                               27/05/2019   a  26/06/2019                                   70,00
+SUBTOTAL                                                                                                                                                         70,00
+Ligações   Locais
+SUBTOTAL                                                                                                                                                          0,00
+Ligações   Locais  para  Celular  (VC1)
+Data          Hora        Duração  Destino                     Número            Tipo                                 Horário    Alíquota     PIS/COFINS     Valor (R$)
+6  27/05/2019  13:43:47     00:00:30  LIGACAO  CELULAR  AREA  31  31994288343       VC1 CLARO                            Normal         27%         3,65%            0,00
+7  27/05/2019  21:32:24     00:00:36  LIGACAO  CELULAR  AREA  31  31995797998       VC1 VIVO                             Reduzido       27%         3,65%            0,00
+8  28/05/2019  18:14:04     00:00:30  LIGACAO  CELULAR  AREA  31  31988168099       VC1 CLARO                            Normal         27%         3,65%            0,00
+9  28/05/2019  18:15:58     00:01:00  LIGACAO  CELULAR  AREA  31  31983356704       VC1 CLARO                            Normal         27%         3,65%            0,00
+10  01/06/2019  11:09:10     00:01:06  LIGACAO  CELULAR  AREA  31  31995938344       VC1 VIVO                             Normal         27%         3,65%            0,00
+11  04/06/2019  13:30:12     00:00:36  LIGACAO  CELULAR  AREA  31  31986077673       VC1 TIM                              Normal         27%         3,65%            0,00
+12  04/06/2019  17:36:30     00:00:30  LIGACAO  CELULAR  AREA  31  31973035666       VC1 OI                               Normal         27%         3,65%            0,00
+13  05/06/2019  15:43:49     00:04:42  LIGACAO  CELULAR  AREA  31  31998052824       VC1 VIVO                             Normal         27%         3,65%            0,00
+14  07/06/2019  14:07:45     00:00:30  LIGACAO  CELULAR  AREA  31  31993477823       VC1 TIM                              Normal         27%         3,65%            0,00
+15  07/06/2019  18:03:43     00:00:30  LIGACAO  CELULAR  AREA  31  31985111009       VC1 OI                               Normal         27%         3,65%            0,00
+16  11/06/2019  11:57:51     00:01:18  LIGACAO  CELULAR  AREA  31  31973035666       VC1 OI                               Normal         27%         3,65%            0,00
+17  11/06/2019  15:55:56     00:00:48  LIGACAO  CELULAR  AREA  31  31988058095       VC1 OI                               Normal         27%         3,65%            0,00
+18  11/06/2019  19:11:48     00:01:30  LIGACAO  CELULAR  AREA  31  31973035666       VC1 OI                               Normal         27%         3,65%            0,00
+19  12/06/2019  13:47:30     00:00:30  LIGACAO  CELULAR  AREA  31  31999591990       VC1 VIVO                             Normal         27%         3,65%            0,00
+20  14/06/2019  15:18:44     00:00:30  LIGACAO  CELULAR  AREA  31  31996706899       VC1 CLARO                            Normal         27%         3,65%            0,00
+21  15/06/2019  11:18:11     00:00:36  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Normal         27%         3,65%            0,00
+22  15/06/2019  12:04:12     00:02:30  LIGACAO  CELULAR  AREA  31  31994709353       VC1 TIM                              Normal         27%         3,65%            0,00
+23  15/06/2019  14:23:28     00:02:18  LIGACAO  CELULAR  AREA  31  31998060075       VC1 VIVO                             Normal         27%         3,65%            0,00
+24  17/06/2019  17:04:55     00:00:36  LIGACAO  CELULAR  AREA  31  31992689602       VC1 TIM                              Normal         27%         3,65%            0,00
+25  18/06/2019  12:00:48     00:00:36  LIGACAO  CELULAR  AREA  31  31994709353       VC1 TIM                              Normal         27%         3,65%            0,00
+26  18/06/2019  18:15:23     00:02:18  LIGACAO  CELULAR  AREA  31  31999140570       VC1 VIVO                             Normal         27%         3,65%            0,00
+27  18/06/2019  20:43:31     00:01:12  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Normal         27%         3,65%            0,00
+28  19/06/2019  13:12:24     00:00:42  LIGACAO  CELULAR  AREA  31  31994709353       VC1 TIM                              Normal         27%         3,65%            0,00
+29  19/06/2019  15:34:11     00:01:00  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Normal         27%         3,65%            0,00
+30  19/06/2019  15:52:07     00:05:48  LIGACAO  CELULAR  AREA  31  31996221967       VC1 VIVO                             Normal         27%         3,65%            0,00
+31  19/06/2019  16:12:12     00:03:48  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Normal         27%         3,65%            0,00
+32  19/06/2019  16:31:08     00:00:48  LIGACAO  CELULAR  AREA  31  31993477823       VC1 TIM                              Normal         27%         3,65%            0,00
+33  19/06/2019  16:32:48     00:05:48  LIGACAO  CELULAR  AREA  31  31996221967       VC1 VIVO                             Normal         27%         3,65%            0,00
+34  19/06/2019  16:40:12     00:00:36  LIGACAO  CELULAR  AREA  31  31996221967       VC1 VIVO                             Normal         27%         3,65%            0,00
+35  19/06/2019  16:44:50     00:02:54  LIGACAO  CELULAR  AREA  31  31997116030       VC1 VIVO                             Normal         27%         3,65%            0,00
+36  19/06/2019  16:50:59     00:01:42  LIGACAO  CELULAR  AREA  31  31996221967       VC1 VIVO                             Normal         27%         3,65%            0,00
+37  19/06/2019  16:52:59     00:00:48  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Normal         27%         3,65%            0,00
+38  19/06/2019  19:08:46     00:00:48  LIGACAO  CELULAR  AREA  31  31993467935       VC1 TIM                              Normal         27%         3,65%            0,00
+39  19/06/2019  21:35:05     00:00:42  LIGACAO  CELULAR  AREA  31  31998113243       VC1 VIVO                             Reduzido       27%         3,65%            0,00
+40  21/06/2019  11:31:20     00:00:30  LIGACAO  CELULAR  AREA  31  31997116030       VC1 VIVO                             Normal         27%         3,65%            0,00
+41  21/06/2019  11:31:45     00:00:42  LIGACAO  CELULAR  AREA  31  31997116030       VC1 VIVO                             Normal         27%         3,65%            0,00
+42  21/06/2019  11:33:05     00:00:30  LIGACAO  CELULAR  AREA  31  31996221967       VC1 VIVO                             Normal         27%         3,65%            0,00
+43  21/06/2019  17:22:47     00:00:30  LIGACAO  CELULAR  AREA  31  31987053788       VC1 OI                               Normal         27%         3,65%            0,00
+44  23/06/2019  17:00:24     00:01:00  LIGACAO  CELULAR  AREA  31  31983322665       VC1 CLARO                            Reduzido       27%         3,65%            0,00
+0000001263 -0000000308 893950000436
+Telefônica Brasil S/A
+RuaLevindo Lopes, 258-Parte -Funcionários
+CEP:30140-170 -Belo Horizonte -MG
+CNPJ:02.558.157/0009-10 Insc Est:062.190468.00-45
+http://www.vivo.com.br
+DETALHAMENTO           DOS   SERVIÇOS       POR   NÚMERO       TELEFÔNICO
+página: 4/6
+POLIMPORT         COMERCIO        E   EXPORTACAO         LTDA                                                          31-3333-8036
+Av.  GAL.  DAVID  SARNOFF  5160  |   | CIDADE  INDUSTRIAL
+Prestadora   Telefonica   (continuação)
+Ligações   Locais  para  Celular  (VC1)
+Data          Hora        Duração  Destino                     Número            Tipo                                 Horário    Alíquota     PIS/COFINS     Valor (R$)
+45  25/06/2019  10:53:48     00:01:54  LIGACAO  CELULAR  AREA  31  31997116030       VC1 VIVO                             Normal         27%         3,65%            0,00
+46  25/06/2019  11:02:43     00:01:54  LIGACAO  CELULAR  AREA  31  31998702777       VC1 VIVO                             Normal         27%         3,65%            0,00
+SUBTOTAL                                                                                                                                                          0,00
+TOTAL                                                                                                                                                            70,00
+POLIMPORT         COMERCIO        E   EXPORTACAO         LTDA                                               CEM-814V6BRSUC-013
+Av.  GAL.  DAVID  SARNOFF  5160  |   | CIDADE  INDUSTRIAL
+Prestadora   Telefonica   (continuação)
+Serviços   Mensais
+Descrição                                                                                           Data  / Período              Alíquota     PIS/COFINS     Valor (R$)
+27%         3,65%
+47   25 Mega  Empresas    GT11  FSP                                                                      27/05/2019   a  26/06/2019                                   94,99
+SUBTOTAL                                                                                                                                                         94,99
+Serviços   Eventuais
+Descrição                                                                                           Data  / Período              Alíquota     PIS/COFINS     Valor (R$)
+27%         3,65%
+48   Ressarcimento   por  interrupção   do  serviço  de  internet                                        26/06/2019                                                   -0,42
+SUBTOTAL                                                                                                                                                         -0,42
+TOTAL                                                                                                                                                            94,57
+TOTAL  DA  NOTA FISCAL   DA TELEFONICA                                                                                                                          176,77
+Reservado         ao   Fisco             b463.c5df.5045.2288.bb75.8e36.79bf.0a00
+ICMS                      Base  de  cálculo:  176,77                            Alíquota:   27%                             Valor  do  ICMS:  47,72
+PIS/COFINS                Base  de  cálculo:  129,04                            Alíquota:   3,65%                           Valor  do  PIS/COFINS:   4,70
+A  TELEFONICA   contribui  c/  1%  do valor  de  serviços   de Telecom   ao FUST  e 0,5%  ao  FUNTTEL  sem  repasse   ao consumidor.
+NFFST   148985-MG
+Prestadora   Telemar
+série: Usubsérie: 11
+TELEMAR  NORTE  LESTE  S/A  |  Pc Milton   Campos,  16  - 6º andar   - Serra  - 30130-040   Belo  Horizonte   MG
+Cnpj:  33.000.118/0003-30    -  Insc.  Est.:  062149964-0047    | Prestação   de  serviço  de  comunicação   - CFOP  5300
+POLIMPORT         COMERCIO        E   EXPORTACAO         LTDA                                                          31-3333-8036
+Av.  GAL.  DAVID  SARNOFF  5160  |   | CIDADE  INDUSTRIAL
+Prestadora   Telemar
+Ligações   Nacionais  de  Longa  Distância
+Data          Hora        Duração  Destino                     Número            Tipo                                 Horário    Alíquota     PIS/COFINS     Valor (R$)
+49  23/05/2019  13:58:42     00:03:42  SAO  PAULO                  1134440772        DDD                                                 27%         3,65%            0,53
+50  24/05/2019  13:20:06     00:27:30  SAO  PAULO                  1134440617        DDD                                                 27%         3,65%            3,96
+51  28/05/2019  11:03:13     00:11:48  SAO  PAULO                  1134440772        DDD                                                 27%         3,65%            1,70
+52  02/06/2019  17:44:31     00:00:42  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            0,10
+53  05/06/2019  13:28:36     00:00:30  POCOS  DE CALDAS            3537141039        DDD                                                 27%         3,65%            0,33
+54  05/06/2019  13:29:19     00:04:36  POCOS  DE CALDAS            3537141039        DDD                                                 27%         3,65%            0,66
+55  05/06/2019  14:05:41     00:00:30                              3003132020        Chamada 0300                                        27%         3,65%            0,07
+56  05/06/2019  20:41:10     00:23:48  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            3,43
+57  06/06/2019  15:39:10     00:23:00  UBERABA                     3433115022        DDD                                                 27%         3,65%            3,31
+58  06/06/2019  16:50:01     00:37:18  UBERABA                     3433115022        DDD                                                 27%         3,65%            5,37
+59  07/06/2019  16:32:55     00:41:42  SAO  PAULO                  1134440772        DDD                                                 27%         3,65%            6,01
+60  10/06/2019  13:05:56     00:01:42  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            0,24
+61  11/06/2019  18:22:20     00:03:18  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            0,47
+62  12/06/2019  11:52:06     00:53:24  SAO  PAULO                  1134440611        DDD                                                 27%         3,65%            7,70
+63  12/06/2019  13:00:55     00:04:12  UBERABA                     3433115022        DDD                                                 27%         3,65%            0,60
+64  12/06/2019  13:02:32     00:19:36  JUNDIAI                     1144310319        DDD                                                 27%         3,65%            2,82
+65  12/06/2019  13:11:55     00:09:48  UBERABA                     3433115022        DDD                                                 27%         3,65%            1,41
+66  12/06/2019  19:33:57     00:09:54  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            1,42
+67  13/06/2019  16:20:13     00:19:18  SAO  PAULO                  1134440772        DDD                                                 27%         3,65%            2,78
+68  14/06/2019  11:19:54     00:37:18  SAO  PAULO                  1134440349        DDD                                                 27%         3,65%            5,37
+69  16/06/2019  16:29:08     00:03:36  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            0,51
+70  17/06/2019  19:59:06     00:09:00  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            1,29
+71  17/06/2019  20:04:18     00:09:12  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            1,32
+72  18/06/2019  13:27:05     00:00:30  SAO  PAULO                  1134443519        DDD                                                 27%         3,65%            0,33
+73  18/06/2019  13:30:51     00:15:48  SAO  PAULO                  1134440349        DDD                                                 27%         3,65%            2,27
+74  19/06/2019  15:59:06     01:12:48  SAO  PAULO                  1134440349        DDD                                                 27%         3,65%           10,49
+75  21/06/2019  19:16:02     00:02:36  SETE  LAGOAS                3137765027        DDD                                                 27%         3,65%            0,37
+76  24/06/2019  13:30:59     00:14:24  SAO  PAULO                  1134440730        DDD                                                 27%         3,65%            2,07
+SUBTOTAL                                                                                                                                                         66,93
+0000001264 -0000000308 893950000436
+Telefônica Brasil S/A
+RuaLevindo Lopes, 258-Parte -Funcionários
+CEP:30140-170 -Belo Horizonte -MG
+CNPJ:02.558.157/0009-10 Insc Est:062.190468.00-45
+http://www.vivo.com.br
+DETALHAMENTO           DOS   SERVIÇOS       POR   NÚMERO       TELEFÔNICO
+página: 5/6
+Prestadora   Telemar  (continuação)
+TOTAL                                                                                                                                                            66,93
+TOTAL  DA  NOTA FISCAL   DA TELEMAR                                                                                                                              66,93
+Reservado         ao   Fisco             2bb1.be8d.eee3.2973.3167.a9ab.dbcd.955a
+ICMS                      Base  de  cálculo:  66,93                             Alíquota:   27%                             Valor  do  ICMS:  18,07
+PIS/COFINS                Base  de  cálculo:  66,93                             Alíquota:   3,65%                           Valor  do  PIS/COFINS:   2,44
+DETALHAMENTO   DOS  SERVIÇOS
+Prestadora   Telefonica
+Telefonica   Brasil  S.A.  | Cnpj:  02.558.157/0135-74
+Outros  Serviços                                                                                    Data  / Período               Alíquota    PIS/COFINS    Valor(R$)
+77   Apontador   Business                                                                                27/05/2019   a  26/06/2019                   9,2%            19,90
+78   Vivo  Cloud  Backup  Premium                                                                        27/05/2019   a  26/06/2019        2%         9,25%           19,90
+Outros  Serviços                                                                                                                                                 39,80
+SUBTOTAL                                                                                                                                                         39,80
+Descontos
+Descrição                                                                                           Data                                                     Valor (R$)
+79   Desconto   Prom.  Apontador  Business   R$  12.09                                                   27/05/2019   a  26/06/2019                                  -12,09
+SUBTOTAL                                                                                                                                                        -12,09
+TOTAL  DA  NOTA FISCAL   DA TELEFONICA                                                                                                                           27,71
+ICMS                      Base  de  cálculo:  0,00                              Alíquota:   0%                              Valor  do  ICMS:  0,00
+ISS                       Base  de  cálculo:  19,90                             Alíquota:   2%                              Valor  do  ISS:  0,39
+PIS/COFINS                Base  de  cálculo:  7,81                              Alíquota:   9,2%                            Valor  do  PIS/COFINS:   0,71
+PIS/COFINS                Base  de  cálculo:  19,90                             Alíquota:   9,25%                           Valor  do  PIS/COFINS:   1,84
+TOTAL      GERAL      A  PAGAR                                                                                                                                 271,41
+0000001265 -0000000308 893950000436
+página:  6/6
+0000001266 -0000000308 893950000436

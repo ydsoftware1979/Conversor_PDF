@@ -1,0 +1,787 @@
+NextelTelecomunicaçõesLtda
+Av:NaçõesUnidas14171-Cond.RochaveráCorp-CrystalTower27ºandar                                                                              Página 1de 10
+CEP:04795-100-VilaGertrudes-SãoPaulo-SP
+CNPJ:66.970.229/0001-67-InscriçãoEstadual:114.166.101.115
+R$       478,62
+CMD     MOTORS       LTDA                                                                                                                                        VENCIMENTO
+LUIZ   -CMD    SP                                                                                                                                          25/06/2020
+AV  JOSE  DE  SOUSA    CAMPOS,     2254   --NOVA    CAMPINAS
+13092-020     -CAMPINAS,     SP                                                                                                                       EMISSÃO:      06/06/20
+CLIENTE:         5.34564.12
+PERÍODO    DE UTILIZAÇÃO:            06/05/20  a 05/06/20
+DÉBITO  AUTOMÁTICO:                           53456412-7
+O  que   foi  contratado:                                        Valor  (em   R$)                            AGILIZE          SUA      VIDA
+1    SMART30GB+Ilimitado193/Pós/SMP                                       205,00                             E   RECEBA           SUA      FATURA
+1    SMART20GB+Ilimitado193/Pós/SMP                                       244,96
+Subtotal: 449,96                            POR       EMAIL.
+O  que   foi  utilizado                                                                                      Cadastre     sua   fatura   digital
+Minutos   longa  distância (outras operadoras)                              28,66                            pelo   App   Meu     Nextel.
+Subtotal: 28,66
+Acesse:  Menu    > Minha   Fatura  >  Fatura  por  E-mail
+Histórico    de  consumo
+O valordasuafaturanosúltimosmeses                                       Valor(emR$)
+Mai 2020                                                                    501,15
+Abr 2020                                                                    455,66
+Mar  2020                                                                   686,71
+---                                                                           0,00
+No siteounoaplicativoMeuNextelvocêconsegueacessarasuaconta
+detalhada,2ªviadeconta,acompanharseuconsumodeinternet.
+Total:  478,62
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cadastreem  débitoautomático com  ocódigo: 53456412-7
+NOME  DO  CLIENTE                                                                                                                                                CÓDIGODA CONTA
+CMD    MOTORS      LTDA                                                                                                                                         0281949954
+IDENTIFICAÇÃO DEDÉBITO AUTOMÁTICO                    MÊS DE REFERÊNCIA               DATA DEEMISSÃO                  DATADE VENCIMENTO              VALORA PAGAR
+53456412-7                                   JUN/2020                      06/06/2020                       25/06/2020                     478,62
+84860000004-0          78620089999-8         99199999718-2          05004584540-5                                                        AUTENTICAÇÃOMECÂNICA
+±„†   G†                      ¨™™™              ™™q?P¤XE?²
+±„†   G†                      ¨™™™              ™™q?P¤XE?²
+±„†   G†                      ¨™™™              ™™q?P¤XE?²
+Página   2 de  10
+Informações      -Planos   e  Serviços
+Pacotes                       ChamadasTelefônicas(R$)Valor               Serviços
+NºTelefone                        Planos                                                                                                                           ValorPlanosAdicionaisAvulsos
+(R$)        (R$)                 Longa     Longadist.
+total
+Roaming   Roaming    Outras     (R$)
+Locais   distância   (outras                                                 (R$)nacional Internac. Chamadas
+Nextel   operadoras)
+1997410 2969   SMART30GB+Ilimitado193/Pós/SMP                  205,00       0,00       0,00       0,00      28,66       0,00      0,00      0,00      0,00         233,66
+1997402 8067   SMART20GB+Ilimitado193/Pós/SMP                  244,96       0,00       0,00       0,00       0,00       0,00      0,00      0,00      0,00         244,96
+SubTotal                                                     449,96        0,00       0,00      0,00       28,66      0,00       0,00      0,00      0,00         478,62
+Detalhes  da linha: 19  974102969
+Demonstrativos       de  serviços   • O  que  foi  contratado:
+Planos                                Período                              Planode Serviço                                                                             ValorR$
+06/05/2020à05/06/2020                SMART30GB+Ilimitado193/Pós/SMP                                                                205,00
+Subtotal                                                                                                                          205,00
+PacotesAdicionais                     Período                              Planode Serviço                                                                             ValorR$
+06/05/2020à19/05/2020                BonusRecorrente7GB                                                                             0,00
+06/05/2020à05/06/2020                RoamingNac.Pos                                                                                 0,00
+Subtotal                                                                                                                            0,00
+Demonstrativos       de  serviços   • O  que  foi  utilizado:
+ChamadasTelefônicas                   TipodeChamada                                Utilizado         Ilimitadasou        InclusoPlano           Excedente              ValorR$
+(Minutos)        Grátis(Minutos)    ouPacote(Minutos)         (Minutos)
+Minutoslocais                                 791:00              791:00              00:00                 00:00                    0,00
+Minutoslongadistância(OutrasOperadoras)       37:36               00:00               00:00                 37:36                   28,66
+MinutoslongadistânciaNextel                   79:00               79:00               00:00                 00:00                    0,00
+OutrasChamadas                                08:24               08:24               00:00                 00:00                    0,00
+Subtotal                                     916:00              878:24               00:00                 37:36                  28,66
+ServiçosAvulsos                       Tipo                                         Utilizado                             InclusoPlano           Excedente              ValorR$
+(Unidades)                         ou Pacote(Unidades)       (Unidades)
+SMSNextel                                       3                                       0                     0                      0,00
+ServiçosdeTerceiroAssinatura                    0                                       0                     0                      0,00
+Subtotal                                                                                                                            0,00
+ServiçosdeDados                       TipodeChamada                                Utilizado                             InclusoPlano           Excedente              ValorR$
+(Unidades)                         ou Pacote(Unidades)       (Unidades)
+_Internet                                  2.263MB38KB                             2.263MB38KB             0MB0 KB                   0,00
+Subtotal                                                                                                                            0,00
+Totalda linha:19-974102969          233,66
+Detalhamento   • Chamadas    Telefonicas
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+05/05/2020                   18:25:25             3G-Campinas               CampinasCel          19993679392                Normal              01:30                      0,00
+05/05/2020                   19:00:43             3G-Campinas               CampinasCel          19993679392                Normal              01:00                      0,00
+05/05/2020                   20:26:49             3G-Campinas               CampinasCel          019982121488               Normal              01:00                      0,00
+06/05/2020                   07:16:14             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+06/05/2020                   08:53:48             3G-Campinas               CampinasCel          19984353448                Normal              01:30                      0,00
+06/05/2020                   10:03:28             3G-Campinas               CampinasCel          19991134672                Normal              01:30                      0,00
+06/05/2020                   10:53:18             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+06/05/2020                   12:19:49             3G-Campinas               CampinasCel          2119987281410              Único               01:30                      0,00
+06/05/2020                   14:00:02             3G-Campinas               CampinasCel          19974078645                Único               00:30                      0,00
+06/05/2020                   14:01:06             3G-Campinas               CampinasCel          19993679392                Normal              01:00                      0,00
+06/05/2020                   18:42:19             3G-Campinas               CampinasCel          19993617019                Normal              01:00                      0,00
+07/05/2020                   08:26:45             3G-Campinas               CampinasCel          19984353448                Normal              01:00                      0,00
+07/05/2020                   08:55:28             3G-Campinas               CampinasCel          991142508                  Normal              00:30                      0,00
+07/05/2020                   09:10:20             3G-Campinas               CampinasCel          19971676224                Normal              02:30                      0,00
+07/05/2020                   09:22:09             3G-Campinas               CampinasCel          2119991536656              Normal              00:30                      0,00
+07/05/2020                   09:28:11             3G-Campinas               CampinasCel          19998546673                Normal              03:00                      0,00
+07/05/2020                   09:32:59             3G-Campinas               CampinasCel          19992526031                Normal              02:00                      0,00
+07/05/2020                   09:44:14             3G-Campinas               CampinasCel          19991421414                Normal              01:30                      0,00
+07/05/2020                   10:24:35             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+07/05/2020                   10:39:50             3G-Campinas               CampinasCel          19989933385                Único               05:00                      0,00
+07/05/2020                   10:49:57             3G-Campinas               Campinas             1932436009                 Normal              01:30                      0,00
+07/05/2020                   12:18:32             3G-Campinas               CampinasCel          019974058661               Único               02:30                      0,00
+07/05/2020                   13:18:15             3G-Campinas               CampinasCel          2119992476547              Normal              01:30                      0,00
+07/05/2020                   13:22:00             3G-Campinas               CampinasCel          19993679392                Normal              00:30                      0,00
+07/05/2020                   13:39:52             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+07/05/2020                   13:46:11             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+07/05/2020                   13:52:24             3G-Campinas               CampinasCel          2119974059962              Normal              01:30                      0,00
+07/05/2020                   14:05:26             3G-Campinas               CampinasCel          2119993657777              Normal              05:00                      0,00
+07/05/2020                   14:10:20             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+07/05/2020                   14:12:33             3G-Campinas               CampinasCel          2119993657777              Normal              01:00                      0,00
+07/05/2020                   14:27:29             3G-Campinas               CampinasCel          2119993657777              Normal              02:00                      0,00
+07/05/2020                   14:31:00             3G-Campinas               CampinasCel          19987281410                Único               10:30                      0,00
+07/05/2020                   16:30:28             3G-Campinas               CampinasCel          19987281410                Único               05:30                      0,00
+07/05/2020                   17:06:00             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+07/05/2020                   17:06:39             3G-Campinas               CampinasCel          2119993657777              Normal              00:30                      0,00
+07/05/2020                   20:25:38             3G-Campinas               CampinasCel          019989933385               Único               03:30                      0,00
+08/05/2020                   09:18:00             3G-Campinas               CampinasCel          19999211808                Normal              01:00                      0,00
+08/05/2020                   09:44:43             3G-Campinas               CampinasCel          19974103344                Único               02:30                      0,00
+Página   3 de  10
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+08/05/2020                   11:30:54             3G-Campinas               CampinasCel          19987281410                Único               04:30                      0,00
+08/05/2020                   11:39:01             3G-Campinas               CampinasCel          19987281410                Único               04:00                      0,00
+08/05/2020                   12:03:26             3G-Campinas               CampinasCel          2119991156271              Normal              01:00                      0,00
+08/05/2020                   12:05:30             3G-Campinas               CampinasCel          19987118645                Normal              02:30                      0,00
+08/05/2020                   12:15:09             3G-Campinas               Campinas             21216472                   Normal              01:00                      0,00
+08/05/2020                   12:34:21             3G-Campinas               Campinas             1935157444                 Normal              04:30                      0,00
+08/05/2020                   12:41:28             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+08/05/2020                   12:45:27             3G-Campinas               Campinas             1937498955                 Normal              02:00                      0,00
+08/05/2020                   16:16:02             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+08/05/2020                   17:39:35             3G-Campinas               CampinasCel          19992288252                Normal              01:00                      0,00
+08/05/2020                   18:19:58             3G-Campinas               CampinasCel          19993679392                Normal              01:30                      0,00
+08/05/2020                   18:36:55             3G-Campinas               CampinasCel          019993679392               Normal              01:30                      0,00
+08/05/2020                   18:41:36             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+09/05/2020                   17:25:58             3G-Campinas               CampinasCel          019971404963               FinaisdeSemana      06:00                      0,00
+10/05/2020                   12:16:22             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+11/05/2020                   09:55:15             3G-Campinas               CampinasCel          19991156271                Normal              01:00                      0,00
+11/05/2020                   11:36:20             3G-Campinas               CampinasCel          19987118645                Normal              01:00                      0,00
+11/05/2020                   12:03:22             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+11/05/2020                   13:16:35             3G-Campinas               CampinasCel          19998686277                Normal              01:00                      0,00
+11/05/2020                   14:22:04             3G-Campinas               CampinasCel          19999211808                Normal              00:30                      0,00
+11/05/2020                   16:03:53             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+11/05/2020                   17:42:54             3G-Campinas               CampinasCel          019987281410               Único               00:30                      0,00
+11/05/2020                   19:56:22             3G-Campinas               CampinasCel          02119991156271             Normal              01:30                      0,00
+11/05/2020                   20:07:20             3G-Campinas               CampinasCel          19997313476                Normal              01:30                      0,00
+12/05/2020                   08:57:32             3G-Campinas               CampinasCel          19971372065                Normal              01:00                      0,00
+12/05/2020                   09:13:33             3G-Campinas               CampinasCel          19993521183                Normal              00:30                      0,00
+12/05/2020                   09:29:38             3G-Campinas               CampinasCel          19971676224                Normal              01:00                      0,00
+12/05/2020                   09:50:29             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+12/05/2020                   10:37:12             3G-Campinas               CampinasCel          19981586255                Normal              02:30                      0,00
+12/05/2020                   10:51:56             3G-Campinas               CampinasCel          19998561303                Normal              02:30                      0,00
+12/05/2020                   10:58:23             3G-Campinas               Campinas             1935163000                 Normal              06:00                      0,00
+12/05/2020                   11:04:14             3G-Campinas               CampinasCel          19971404963                Normal              01:00                      0,00
+12/05/2020                   11:07:31             3G-Campinas               CampinasCel          997313476                  Normal              02:00                      0,00
+12/05/2020                   11:14:55             3G-Campinas               Campinas             1935163000                 Normal              02:30                      0,00
+12/05/2020                   11:37:37             3G-Campinas               CampinasCel          019974103344               Único               01:30                      0,00
+12/05/2020                   11:41:47             3G-Campinas               CampinasCel          02119987281410             Único               03:00                      0,00
+12/05/2020                   11:52:19             3G-Campinas               CampinasCel          19991421414                Normal              00:30                      0,00
+12/05/2020                   12:36:10             3G-Campinas               CampinasCel          19995611013                Único               00:30                      0,00
+12/05/2020                   12:57:10             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+12/05/2020                   13:04:41             3G-Campinas               CampinasCel          2119974166221              Único               04:30                      0,00
+12/05/2020                   13:57:16             3G-Campinas               CampinasCel          19981586255                Normal              01:00                      0,00
+12/05/2020                   14:00:12             3G-Campinas               CampinasCel          19987281410                Único               05:00                      0,00
+12/05/2020                   14:26:08             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+12/05/2020                   14:34:15             3G-Campinas               CampinasCel          02119991156271             Normal              00:30                      0,00
+12/05/2020                   14:43:21             3G-Campinas               CampinasCel          019974103344               Único               01:30                      0,00
+12/05/2020                   14:54:20             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+12/05/2020                   15:05:46             3G-Campinas               CampinasCel          019974103344               Único               02:00                      0,00
+12/05/2020                   15:27:44             3G-Campinas               CampinasCel          19997039975                Normal              01:00                      0,00
+12/05/2020                   15:44:52             3G-Campinas               CampinasCel          19999961166                Normal              01:30                      0,00
+12/05/2020                   15:56:29             3G-Campinas               CampinasCel          19992526031                Normal              05:00                      0,00
+12/05/2020                   15:57:46             3G-Campinas               CampinasCel          19989933385                Único               01:00                      0,00
+12/05/2020                   15:58:42             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+12/05/2020                   16:51:24             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+12/05/2020                   16:57:27             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+12/05/2020                   17:03:25             3G-Campinas               CampinasCel          983527420                  Normal              01:00                      0,00
+12/05/2020                   17:20:21             3G-Campinas               CampinasCel          19991421414                Normal              00:30                      0,00
+12/05/2020                   18:02:59             3G-Campinas               CampinasCel          19983208108                Normal              04:00                      0,00
+13/05/2020                   08:04:04             3G-Campinas               CampinasCel          19984353448                Normal              00:30                      0,00
+13/05/2020                   08:47:19             3G-Campinas               CampinasCel          2119987281410              Único               06:00                      0,00
+13/05/2020                   09:10:59             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+13/05/2020                   09:12:52             3G-Campinas               CampinasCel          19993812694                Normal              00:30                      0,00
+13/05/2020                   09:31:53             3G-Campinas               CampinasCel          2119993657777              Normal              01:30                      0,00
+13/05/2020                   09:39:22             3G-Campinas               CampinasCel          19987281410                Único               04:00                      0,00
+13/05/2020                   10:21:02             3G-Campinas               CampinasCel          2119993657777              Normal              05:00                      0,00
+13/05/2020                   10:56:48             3G-Campinas               CampinasCel          19993166625                Normal              00:30                      0,00
+13/05/2020                   11:03:12             3G-Campinas               CampinasCel          19999486419                Normal              00:30                      0,00
+13/05/2020                   11:22:46             3G-Campinas               CampinasCel          19994701068                Normal              01:30                      0,00
+13/05/2020                   11:35:58             3G-Campinas               CampinasCel          19992594576                Normal              00:30                      0,00
+13/05/2020                   15:53:04             3G-Campinas               Campinas             1932491355                 Normal              02:00                      0,00
+13/05/2020                   16:09:46             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+13/05/2020                   16:11:33             3G-Campinas               CampinasCel          19999211808                Normal              02:00                      0,00
+13/05/2020                   16:31:39             3G-Campinas               Campinas             1932012866                 Normal              02:30                      0,00
+13/05/2020                   17:52:03             3G-Campinas               CampinasCel          19981179206                Normal              00:30                      0,00
+13/05/2020                   21:09:34             3G-Campinas               CampinasCel          02119971052164             Noite               02:00                      0,00
+14/05/2020                   07:16:01             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+14/05/2020                   09:43:47             3G-Campinas               CampinasCel          19997879804                Normal              03:30                      0,00
+14/05/2020                   09:47:42             3G-Campinas               CampinasCel          19974103344                Único               02:00                      0,00
+14/05/2020                   09:51:29             3G-Campinas               CampinasCel          19971676224                Normal              02:30                      0,00
+14/05/2020                   11:04:27             3G-Campinas               CampinasCel          19992288252                Normal              01:00                      0,00
+14/05/2020                   11:05:39             3G-Campinas               CampinasCel          19974103344                Único               02:30                      0,00
+14/05/2020                   11:51:49             3G-Campinas               Campinas             1937498955                 Normal              01:30                      0,00
+14/05/2020                   11:56:35             3G-Campinas               CampinasCel          19981869928                Normal              00:30                      0,00
+14/05/2020                   12:05:49             3G-Campinas               CampinasCel          19992288252                Normal              01:00                      0,00
+14/05/2020                   12:27:37             3G-Campinas               CampinasCel          02119971052164             Normal              01:00                      0,00
+14/05/2020                   12:29:54             3G-Campinas               CampinasCel          02119987281410             Único               02:00                      0,00
+14/05/2020                   12:42:33             3G-Campinas               CampinasCel          19997645956                Normal              05:00                      0,00
+14/05/2020                   12:49:34             3G-Campinas               CampinasCel          2119993679392              Normal              00:30                      0,00
+14/05/2020                   13:40:13             3G-Campinas               CampinasCel          19974103344                Único               03:00                      0,00
+14/05/2020                   13:58:13             3G-Campinas               CampinasCel          019974103344               Único               02:00                      0,00
+14/05/2020                   14:17:24             3G-Campinas               CampinasCel          02119987281410             Único               00:30                      0,00
+14/05/2020                   14:43:19             3G-Campinas               CampinasCel          019992526031               Normal              01:00                      0,00
+14/05/2020                   15:05:31             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+14/05/2020                   15:06:37             3G-Campinas               CampinasCel          19999211808                Normal              03:30                      0,00
+14/05/2020                   15:10:07             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+14/05/2020                   15:30:13             3G-Campinas               CampinasCel          19999211808                Normal              01:30                      0,00
+14/05/2020                   15:40:34             3G-Campinas               CampinasCel          19974058661                Único               01:00                      0,00
+14/05/2020                   16:09:40             3G-Campinas               CampinasCel          19974103344                Único               02:30                      0,00
+14/05/2020                   16:33:37             3G-Campinas               CampinasCel          19997879804                Normal              00:30                      0,00
+14/05/2020                   16:38:05             3G-Campinas               CampinasCel          2119987281410              Único               04:30                      0,00
+14/05/2020                   17:18:39             3G-Campinas               CampinasCel          19992288252                Normal              01:30                      0,00
+14/05/2020                   17:35:19             3G-Campinas               CampinasCel          2119971052164              Normal              01:00                      0,00
+Página   4 de  10
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+14/05/2020                   19:54:48             3G-Campinas               CampinasCel          02119971052164             Normal              01:30                      0,00
+15/05/2020                   09:04:24             3G-Campinas               CampinasCel          19974103344                Único               04:00                      0,00
+15/05/2020                   09:27:50             3G-Campinas               CampinasCel          19997879804                Normal              02:30                      0,00
+15/05/2020                   16:03:14             3G-Campinas               CampinasCel          19997879804                Normal              08:00                      0,00
+15/05/2020                   16:57:45             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+15/05/2020                   17:59:55             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+15/05/2020                   19:08:30             3G-Campinas               CampinasCel          02119971052164             Normal              00:30                      0,00
+16/05/2020                   09:01:01             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+16/05/2020                   12:33:09             3G-Campinas               CampinasCel          19993679392                FinaisdeSemana      02:00                      0,00
+16/05/2020                   14:53:39             3G-Campinas               CampinasCel          2119987281410              Único               02:30                      0,00
+18/05/2020                   07:49:05             3G-Campinas               CampinasCel          2119987281410              Único               00:30                      0,00
+18/05/2020                   08:10:36             3G-Campinas               CampinasCel          19981586255                Normal              00:30                      0,00
+18/05/2020                   08:37:13             3G-Campinas               CampinasCel          19997645956                Normal              02:00                      0,00
+18/05/2020                   08:45:27             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+18/05/2020                   08:47:54             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+18/05/2020                   10:08:59             3G-Campinas               CampinasCel          19987281410                Único               02:30                      0,00
+18/05/2020                   11:24:04             3G-Campinas               CampinasCel          19982354816                Normal              01:00                      0,00
+18/05/2020                   12:22:33             3G-Campinas               CampinasCel          2119991123392              Normal              01:00                      0,00
+18/05/2020                   12:31:40             3G-Campinas               Campinas             1933053965                 Normal              01:30                      0,00
+18/05/2020                   12:34:00             3G-Campinas               Campinas             1932919853                 Normal              00:30                      0,00
+18/05/2020                   12:36:11             3G-Campinas               Campinas             1932875355                 Normal              01:00                      0,00
+18/05/2020                   12:40:57             3G-Campinas               Campinas             1932572206                 Normal              00:30                      0,00
+18/05/2020                   12:42:55             3G-Campinas               CampinasCel          19971676224                Normal              01:00                      0,00
+18/05/2020                   13:15:45             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+18/05/2020                   13:54:37             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+18/05/2020                   14:01:49             3G-Campinas               CampinasCel          19999211808                Normal              01:00                      0,00
+18/05/2020                   14:13:15             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+18/05/2020                   14:19:08             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+19/05/2020                   08:24:50             3G-Campinas               CampinasCel          989841299                  Normal              01:00                      0,00
+19/05/2020                   08:33:07             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+19/05/2020                   08:36:01             3G-Campinas               Campinas             1932012866                 Normal              02:00                      0,00
+19/05/2020                   10:57:48             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+19/05/2020                   10:58:38             3G-Campinas               CampinasCel          19971052164                Normal              01:00                      0,00
+19/05/2020                   11:02:16             3G-Campinas               CampinasCel          19987281410                Único               03:30                      0,00
+19/05/2020                   11:20:11             3G-Campinas               CampinasCel          19971676224                Normal              01:30                      0,00
+19/05/2020                   11:22:45             3G-Campinas               CampinasCel          19974149197                Único               01:30                      0,00
+19/05/2020                   12:05:32             3G-Campinas               CampinasCel          19993679392                Normal              05:00                      0,00
+19/05/2020                   12:11:03             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+19/05/2020                   12:12:47             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+19/05/2020                   12:42:17             3G-Campinas               CampinasCel          19991421414                Normal              02:00                      0,00
+19/05/2020                   13:09:32             3G-Campinas               CampinasCel          19974103344                Único               02:00                      0,00
+19/05/2020                   13:46:17             3G-Campinas               CampinasCel          19987118645                Normal              00:30                      0,00
+19/05/2020                   13:58:31             3G-Campinas               Campinas             1938741044                 Normal              00:30                      0,00
+19/05/2020                   14:04:32             3G-Campinas               CampinasCel          19992288252                Normal              01:00                      0,00
+19/05/2020                   14:05:41             3G-Campinas               CampinasCel          19993679392                Normal              04:00                      0,00
+19/05/2020                   14:09:30             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+19/05/2020                   14:12:24             3G-Campinas               CampinasCel          19993679392                Normal              01:00                      0,00
+19/05/2020                   14:17:28             3G-Campinas               CampinasCel          2119991523465              Normal              02:00                      0,00
+19/05/2020                   14:20:38             3G-Campinas               CampinasCel          19992288252                Normal              01:00                      0,00
+19/05/2020                   14:22:13             3G-Campinas               CampinasCel          19994383223                Normal              03:00                      0,00
+19/05/2020                   14:27:36             3G-Campinas               CampinasCel          19994383223                Normal              01:30                      0,00
+19/05/2020                   14:32:38             3G-Campinas               CampinasCel          19992288252                Normal              01:30                      0,00
+19/05/2020                   14:34:39             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+19/05/2020                   15:15:19             3G-Campinas               CampinasCel          19992288252                Normal              01:30                      0,00
+19/05/2020                   16:37:02             3G-Campinas               CampinasCel          19997488576                Normal              00:30                      0,00
+19/05/2020                   16:41:50             3G-Campinas               CampinasCel          19997970999                Normal              02:30                      0,00
+19/05/2020                   16:45:57             3G-Campinas               CampinasCel          19974069026                Normal              00:30                      0,00
+19/05/2020                   16:53:52             3G-Campinas               CampinasCel          19989430631                Normal              02:30                      0,00
+19/05/2020                   17:19:15             3G-Campinas               CampinasCel          19991041167                Normal              00:30                      0,00
+19/05/2020                   17:23:42             3G-Campinas               CampinasCel          19991239400                Normal              00:30                      0,00
+19/05/2020                   17:35:53             3G-Campinas               CampinasCel          019992594576               Normal              00:30                      0,00
+19/05/2020                   17:40:53             3G-Campinas               CampinasCel          19995345680                Normal              03:00                      0,00
+20/05/2020                   08:09:28             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+20/05/2020                   08:29:11             3G-Campinas               CampinasCel          19997645956                Normal              00:30                      0,00
+20/05/2020                   08:53:14             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+20/05/2020                   08:59:19             3G-Campinas               CampinasCel          2119981147937              Único               03:00                      0,00
+20/05/2020                   09:03:32             3G-Campinas               CampinasCel          19971676224                Normal              01:30                      0,00
+20/05/2020                   09:50:07             3G-Campinas               CampinasCel          19992288252                Normal              00:30                      0,00
+20/05/2020                   09:58:06             3G-Campinas               CampinasCel          19997553921                Normal              00:30                      0,00
+20/05/2020                   10:01:45             3G-Campinas               CampinasCel          19997553921                Normal              01:00                      0,00
+20/05/2020                   10:15:01             3G-Campinas               CampinasCel          19971676224                Normal              01:00                      0,00
+20/05/2020                   10:45:37             3G-Campinas               CampinasCel          19983966462                Normal              00:30                      0,00
+20/05/2020                   10:46:43             3G-Campinas               CampinasCel          19995345680                Normal              03:00                      0,00
+20/05/2020                   11:02:36             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+20/05/2020                   11:13:10             3G-Campinas               CampinasCel          19999211808                Normal              01:30                      0,00
+20/05/2020                   11:19:55             3G-Campinas               CampinasCel          19994172345                Normal              01:00                      0,00
+20/05/2020                   11:21:49             3G-Campinas               CampinasCel          19989029125                Normal              00:30                      0,00
+20/05/2020                   11:26:46             3G-Campinas               CampinasCel          19984547030                Normal              01:30                      0,00
+20/05/2020                   11:28:39             3G-Campinas               CampinasCel          19991479794                Normal              00:30                      0,00
+20/05/2020                   11:29:49             3G-Campinas               CampinasCel          19991217589                Normal              00:30                      0,00
+20/05/2020                   11:32:04             3G-Campinas               CampinasCel          19995410912                Normal              01:00                      0,00
+20/05/2020                   11:37:13             3G-Campinas               CampinasCel          019987281410               Único               00:30                      0,00
+20/05/2020                   11:51:43             3G-Campinas               CampinasCel          19991123250                Normal              04:00                      0,00
+20/05/2020                   12:02:37             3G-Campinas               CampinasCel          19991123250                Normal              00:30                      0,00
+20/05/2020                   12:19:53             3G-Campinas               CampinasCel          19991123250                Normal              00:30                      0,00
+20/05/2020                   12:33:56             3G-Campinas               CampinasCel          19993679392                Normal              00:30                      0,00
+20/05/2020                   12:41:23             3G-Campinas               CampinasCel          2119987281410              Único               04:00                      0,00
+20/05/2020                   15:08:09             3G-Campinas               CampinasCel          19999211808                Normal              01:00                      0,00
+20/05/2020                   17:13:17             3G-Campinas               CampinasCel          19971676224                Normal              04:30                      0,00
+21/05/2020                   07:58:24             3G-Campinas               CampinasCel          19981586255                Normal              01:30                      0,00
+21/05/2020                   08:01:09             3G-Campinas               CampinasCel          2119987281410              Único               00:30                      0,00
+21/05/2020                   08:19:39             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+21/05/2020                   08:20:56             3G-Campinas               CampinasCel          19992526031                Normal              00:30                      0,00
+21/05/2020                   08:49:36             3G-Campinas               CampinasCel          19999136521                Normal              01:00                      0,00
+21/05/2020                   09:44:58             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+21/05/2020                   10:47:22             3G-Campinas               CampinasCel          2119971052164              Normal              01:30                      0,00
+21/05/2020                   10:50:17             3G-Campinas               CampinasCel          19992526031                Normal              03:30                      0,00
+21/05/2020                   11:23:13             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+21/05/2020                   11:25:09             3G-Campinas               CampinasCel          19997879804                Normal              02:00                      0,00
+21/05/2020                   11:57:54             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+21/05/2020                   15:27:45             3G-Campinas               CampinasCel          19992288252                Normal              02:30                      0,00
+Página   5 de  10
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+21/05/2020                   15:34:32             3G-Campinas               CampinasCel          19974103344                Único               02:00                      0,00
+21/05/2020                   16:08:42             3G-Campinas               CampinasCel          19987118645                Normal              03:00                      0,00
+21/05/2020                   16:16:05             3G-Campinas               CampinasCel          19974103344                Único               05:30                      0,00
+21/05/2020                   16:35:53             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+22/05/2020                   08:22:07             3G-Campinas               CampinasCel          19981586255                Normal              00:30                      0,00
+22/05/2020                   08:23:34             3G-Campinas               Campinas             1932875801                 Normal              01:00                      0,00
+22/05/2020                   09:12:09             3G-Campinas               Campinas             1933221000                 Normal              05:00                      0,00
+22/05/2020                   10:57:14             3G-Campinas               CampinasCel          19987281410                Único               06:30                      0,00
+22/05/2020                   11:07:28             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+22/05/2020                   11:17:12             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+22/05/2020                   11:30:15             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+22/05/2020                   12:12:15             3G-Campinas               CampinasCel          19987118645                Normal              02:00                      0,00
+22/05/2020                   12:35:53             3G-Campinas               CampinasCel          19997879804                Normal              06:30                      0,00
+22/05/2020                   13:19:58             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+22/05/2020                   14:39:43             3G-Campinas               CampinasCel          19984353448                Normal              01:00                      0,00
+22/05/2020                   15:56:57             3G-Campinas               CampinasCel          19984353448                Normal              05:30                      0,00
+22/05/2020                   16:05:24             3G-Campinas               CampinasCel          19984353448                Normal              01:30                      0,00
+22/05/2020                   18:11:47             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+22/05/2020                   20:32:29             3G-Campinas               CampinasCel          02119971052164             Normal              01:00                      0,00
+23/05/2020                   09:33:32             3G-Campinas               CampinasCel          19987281410                Único               01:00                      0,00
+23/05/2020                   09:48:08             3G-Campinas               CampinasCel          19993679392                FinaisdeSemana      02:00                      0,00
+23/05/2020                   11:11:53             3G-Campinas               CampinasCel          19993679392                FinaisdeSemana      01:30                      0,00
+23/05/2020                   14:23:07             3G-Campinas               CampinasCel          019999411910               FinaisdeSemana      01:00                      0,00
+25/05/2020                   09:22:27             3G-Campinas               Campinas             01932891873                Normal              00:30                      0,00
+25/05/2020                   09:49:04             3G-Campinas               CampinasCel          19987118645                Normal              00:30                      0,00
+25/05/2020                   10:03:58             3G-Campinas               CampinasCel          2119987281410              Único               03:00                      0,00
+25/05/2020                   10:26:25             3G-Campinas               CampinasCel          19971676224                Normal              03:00                      0,00
+25/05/2020                   11:15:59             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+25/05/2020                   12:00:32             3G-Campinas               CampinasCel          19993679392                Normal              03:00                      0,00
+25/05/2020                   12:05:49             3G-Campinas               CampinasCel          19992526031                Normal              01:00                      0,00
+25/05/2020                   12:07:46             3G-Campinas               CampinasCel          19992288252                Normal              01:30                      0,00
+25/05/2020                   12:12:29             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+25/05/2020                   12:14:18             3G-Campinas               CampinasCel          19993679392                Normal              00:30                      0,00
+25/05/2020                   18:50:57             3G-Campinas               CampinasCel          02119998488735             Normal              04:00                      0,00
+26/05/2020                   09:25:44             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+26/05/2020                   09:48:35             3G-Campinas               CampinasCel          19974103344                Único               03:00                      0,00
+26/05/2020                   10:08:40             3G-Campinas               Campinas             1930393016                 Normal              00:30                      0,00
+26/05/2020                   10:28:19             3G-Campinas               CampinasCel          19994172345                Normal              01:00                      0,00
+26/05/2020                   10:35:29             3G-Campinas               CampinasCel          19998353858                Normal              00:30                      0,00
+26/05/2020                   10:39:10             3G-Campinas               CampinasCel          19996531906                Normal              01:00                      0,00
+26/05/2020                   11:06:25             3G-Campinas               CampinasCel          19994490430                Normal              01:30                      0,00
+26/05/2020                   11:33:17             3G-Campinas               CampinasCel          19995017900                Normal              00:30                      0,00
+26/05/2020                   11:43:45             3G-Campinas               CampinasCel          19989668138                Normal              00:30                      0,00
+26/05/2020                   11:48:00             3G-Campinas               CampinasCel          19992526031                Normal              00:30                      0,00
+26/05/2020                   11:51:49             3G-Campinas               CampinasCel          19992526031                Normal              00:30                      0,00
+26/05/2020                   11:59:56             3G-Campinas               CampinasCel          19987186170                Normal              02:00                      0,00
+26/05/2020                   12:22:21             3G-Campinas               CampinasCel          19987186170                Normal              01:30                      0,00
+26/05/2020                   12:31:01             3G-Campinas               CampinasCel          19989505549                Normal              00:30                      0,00
+26/05/2020                   12:35:33             3G-Campinas               CampinasCel          19989482931                Normal              01:30                      0,00
+26/05/2020                   12:52:17             3G-Campinas               CampinasCel          19987186170                Normal              00:30                      0,00
+26/05/2020                   13:02:04             3G-Campinas               CampinasCel          19971676224                Normal              01:30                      0,00
+26/05/2020                   13:04:10             3G-Campinas               CampinasCel          19987186170                Normal              00:30                      0,00
+26/05/2020                   13:55:04             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+26/05/2020                   14:13:11             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+26/05/2020                   17:24:45             3G-Campinas               CampinasCel          19993679392                Normal              01:00                      0,00
+27/05/2020                   09:14:38             3G-Campinas               CampinasCel          19974103344                Único               02:00                      0,00
+27/05/2020                   09:17:21             3G-Campinas               CampinasCel          19987118645                Normal              01:00                      0,00
+27/05/2020                   09:49:33             3G-Campinas               CampinasCel          019974103344               Único               02:30                      0,00
+27/05/2020                   09:59:53             3G-Campinas               CampinasCel          2119974166221              Único               02:30                      0,00
+27/05/2020                   10:33:22             3G-Campinas               CampinasCel          2119987281410              Único               02:30                      0,00
+27/05/2020                   11:26:57             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+27/05/2020                   12:40:22             3G-Campinas               CampinasCel          19992526031                Normal              01:00                      0,00
+27/05/2020                   12:41:35             3G-Campinas               CampinasCel          019993679392               Normal              02:30                      0,00
+27/05/2020                   12:46:11             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+27/05/2020                   13:13:29             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+27/05/2020                   13:16:11             3G-Campinas               CampinasCel          2119992159336              Normal              12:00                      0,00
+27/05/2020                   13:28:27             3G-Campinas               CampinasCel          19993679392                Normal              01:00                      0,00
+27/05/2020                   14:02:02             3G-Campinas               CampinasCel          019974103344               Único               01:00                      0,00
+27/05/2020                   14:04:01             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+27/05/2020                   14:06:23             3G-Campinas               CampinasCel          019981223257               Normal              04:30                      0,00
+27/05/2020                   14:13:14             3G-Campinas               CampinasCel          19987118645                Normal              00:30                      0,00
+27/05/2020                   14:17:16             3G-Campinas               CampinasCel          19992611732                Normal              01:00                      0,00
+27/05/2020                   14:55:19             3G-Campinas               CampinasCel          19974103344                Único               03:30                      0,00
+28/05/2020                   06:52:50             3G-Campinas               CampinasCel          19993679392                Normal              01:30                      0,00
+28/05/2020                   07:49:30             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+28/05/2020                   08:57:37             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+28/05/2020                   10:51:51             3G-Campinas               CampinasCel          2119993657777              Normal              04:00                      0,00
+28/05/2020                   11:25:15             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+28/05/2020                   11:58:34             3G-Campinas               CampinasCel          19987118645                Normal              00:30                      0,00
+28/05/2020                   12:29:04             3G-Campinas               CampinasCel          19987281410                Único               00:30                      0,00
+28/05/2020                   12:34:37             3G-Campinas               CampinasCel          19974149197                Único               00:30                      0,00
+28/05/2020                   13:22:44             3G-Campinas               CampinasCel          19987281410                Único               03:00                      0,00
+28/05/2020                   13:25:28             3G-Campinas               CampinasCel          19987118645                Normal              02:30                      0,00
+28/05/2020                   17:50:21             3G-Campinas               CampinasCel          19971676224                Normal              01:00                      0,00
+29/05/2020                   09:51:39             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+29/05/2020                   10:57:01             3G-Campinas               CampinasCel          02119987281410             Único               00:30                      0,00
+29/05/2020                   11:01:43             3G-Campinas               CampinasCel          2119987281410              Único               01:30                      0,00
+29/05/2020                   12:42:08             3G-Campinas               CampinasCel          2119987281410              Único               02:00                      0,00
+29/05/2020                   13:43:23             3G-Campinas               CampinasCel          983527420                  Normal              02:30                      0,00
+29/05/2020                   13:49:00             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+29/05/2020                   15:03:04             3G-Campinas               CampinasCel          19997879804                Normal              02:00                      0,00
+29/05/2020                   18:16:18             3G-Campinas               CampinasCel          19993679392                Normal              03:00                      0,00
+30/05/2020                   10:02:59             3G-Campinas               Campinas             1925152800                 FinaisdeSemana      00:30                      0,00
+30/05/2020                   10:52:56             3G-Campinas               CampinasCel          2119971052164              FinaisdeSemana      00:30                      0,00
+30/05/2020                   11:36:17             3G-Campinas               CampinasCel          2119971052164              FinaisdeSemana      02:00                      0,00
+30/05/2020                   12:12:14             3G-Campinas               CampinasCel          2119987281410              Único               01:00                      0,00
+30/05/2020                   12:48:01             3G-Campinas               CampinasCel          19993679392                FinaisdeSemana      03:00                      0,00
+30/05/2020                   15:20:50             3G-Campinas               CampinasCel          2119987281410              Único               00:30                      0,00
+01/06/2020                   09:42:20             3G-Campinas               CampinasCel          02119987281410             Único               02:00                      0,00
+01/06/2020                   09:50:14             3G-Campinas               Campinas             1932012866                 Normal              01:00                      0,00
+01/06/2020                   09:52:28             3G-Campinas               Campinas             1935163000                 Normal              04:00                      0,00
+Página   6 de  10
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+01/06/2020                   10:50:49             3G-Campinas               Campinas             1932781457                 Normal              01:00                      0,00
+01/06/2020                   11:08:54             3G-Campinas               CampinasCel          2119987281410              Único               03:00                      0,00
+01/06/2020                   11:40:39             3G-Campinas               CampinasCel          19999211808                Normal              01:30                      0,00
+01/06/2020                   11:42:12             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+01/06/2020                   13:01:05             3G-Campinas               CampinasCel          19981586255                Normal              03:00                      0,00
+01/06/2020                   13:38:02             3G-Campinas               CampinasCel          19981147937                Único               01:00                      0,00
+01/06/2020                   16:02:27             3G-Campinas               CampinasCel          19971676224                Normal              04:30                      0,00
+01/06/2020                   16:38:29             3G-Campinas               CampinasCel          19971422857                Normal              01:30                      0,00
+01/06/2020                   16:40:48             3G-Campinas               CampinasCel          2119987281410              Único               00:30                      0,00
+01/06/2020                   17:16:59             3G-Campinas               Campinas             1932412521                 Normal              03:00                      0,00
+02/06/2020                   08:18:18             3G-Campinas               CampinasCel          2119997601650              Normal              07:00                      0,00
+02/06/2020                   10:33:56             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+02/06/2020                   11:16:18             3G-Campinas               CampinasCel          19993657777                Normal              04:00                      0,00
+02/06/2020                   11:47:47             3G-Campinas               CampinasCel          19991453900                Normal              00:30                      0,00
+02/06/2020                   11:50:33             3G-Campinas               CampinasCel          19994221496                Normal              07:00                      0,00
+02/06/2020                   12:40:02             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+02/06/2020                   13:11:14             3G-Campinas               CampinasCel          2119981251268              Normal              04:00                      0,00
+02/06/2020                   19:18:02             3G-Campinas               CampinasCel          19993679392                Normal              05:00                      0,00
+03/06/2020                   07:20:38             3G-Campinas               CampinasCel          19974149197                Único               01:00                      0,00
+03/06/2020                   07:24:16             3G-Campinas               CampinasCel          19992121990                Normal              01:30                      0,00
+03/06/2020                   07:25:48             3G-Campinas               CampinasCel          19999391971                Normal              01:00                      0,00
+03/06/2020                   09:50:22             3G-Campinas               CampinasCel          19997907766                Normal              00:30                      0,00
+03/06/2020                   11:06:42             3G-Campinas               CampinasCel          19993679392                Normal              00:30                      0,00
+03/06/2020                   11:07:22             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+03/06/2020                   11:54:53             3G-Campinas               CampinasCel          19971676224                Normal              03:30                      0,00
+03/06/2020                   12:10:43             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+03/06/2020                   13:31:11             3G-Campinas               CampinasCel          19971676224                Normal              00:30                      0,00
+03/06/2020                   14:17:57             3G-Campinas               CampinasCel          19993679392                Normal              05:00                      0,00
+03/06/2020                   14:36:53             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+03/06/2020                   15:00:41             3G-Campinas               CampinasCel          19974103344                Único               00:30                      0,00
+03/06/2020                   15:06:44             3G-Campinas               CampinasCel          19974103344                Único               01:00                      0,00
+03/06/2020                   15:27:52             3G-Campinas               CampinasCel          2119992159336              Normal              08:30                      0,00
+03/06/2020                   15:37:19             3G-Campinas               CampinasCel          19987281410                Único               01:30                      0,00
+03/06/2020                   16:04:32             3G-Campinas               Campinas             1937168300                 Normal              03:00                      0,00
+03/06/2020                   16:08:35             3G-Campinas               CampinasCel          19974103344                Único               01:30                      0,00
+03/06/2020                   16:44:25             3G-Campinas               Campinas             1932414625                 Normal              01:00                      0,00
+03/06/2020                   17:08:13             3G-Campinas               CampinasCel          019971676224               Normal              09:00                      0,00
+03/06/2020                   17:29:02             3G-Campinas               CampinasCel          019971676224               Normal              02:30                      0,00
+03/06/2020                   17:33:19             3G-Campinas               CampinasCel          019971676224               Normal              01:00                      0,00
+03/06/2020                   19:17:26             3G-Campinas               CampinasCel          19993679392                Normal              00:30                      0,00
+04/06/2020                   06:57:29             3G-Campinas               CampinasCel          19993679392                Normal              02:00                      0,00
+04/06/2020                   08:18:17             3G-Campinas               CampinasCel          19987637970                Normal              00:30                      0,00
+04/06/2020                   09:13:51             3G-Campinas               Campinas             1932875805                 Normal              01:00                      0,00
+04/06/2020                   09:24:59             3G-Campinas               CampinasCel          19992288252                Normal              01:30                      0,00
+04/06/2020                   09:26:31             3G-Campinas               CampinasCel          19971676224                Normal              02:00                      0,00
+04/06/2020                   09:30:17             3G-Campinas               Campinas             32164224                   Normal              00:30                      0,00
+04/06/2020                   09:33:05             3G-Campinas               Campinas             1932164422                 Normal              03:00                      0,00
+04/06/2020                   09:52:37             3G-Campinas               Campinas             1932523811                 Normal              07:00                      0,00
+04/06/2020                   10:01:03             3G-Campinas               Campinas             1932493000                 Normal              02:30                      0,00
+04/06/2020                   10:08:19             3G-Campinas               CampinasCel          2119991142508              Normal              06:00                      0,00
+04/06/2020                   10:33:14             3G-Campinas               CampinasCel          19981586255                Normal              01:00                      0,00
+04/06/2020                   10:39:55             3G-Campinas               Campinas             1932328100                 Normal              02:00                      0,00
+04/06/2020                   11:33:56             3G-Campinas               CampinasCel          19987118645                Normal              01:30                      0,00
+04/06/2020                   12:42:59             3G-Campinas               CampinasCel          2119987281410              Único               01:30                      0,00
+04/06/2020                   13:04:08             3G-Campinas               CampinasCel          19992594576                Normal              01:00                      0,00
+04/06/2020                   13:14:43             3G-Campinas               CampinasCel          19981991041                Normal              01:30                      0,00
+04/06/2020                   13:50:32             3G-Campinas               CampinasCel          997407774                  Normal              01:00                      0,00
+04/06/2020                   15:13:26             3G-Campinas               CampinasCel          19991703809                Normal              01:00                      0,00
+04/06/2020                   15:43:16             3G-Campinas               CampinasCel          19997016862                Normal              00:30                      0,00
+04/06/2020                   15:57:13             3G-Campinas               CampinasCel          019993201217               Normal              04:00                      0,00
+04/06/2020                   16:02:26             3G-Campinas               CampinasCel          019992594576               Normal              00:30                      0,00
+04/06/2020                   17:38:55             3G-Campinas               CampinasCel          19999021973                Normal              05:00                      0,00
+04/06/2020                   19:40:27             3G-Campinas               CampinasCel          02119971052164             Normal              10:00                      0,00
+05/06/2020                   08:28:44             3G-Campinas               CampinasCel          19971676224                Normal              04:30                      0,00
+05/06/2020                   08:39:47             3G-Campinas               CampinasCel          19987281410                Único               02:00                      0,00
+05/06/2020                   08:42:42             3G-Campinas               CampinasCel          987637970                  Normal              01:00                      0,00
+05/06/2020                   08:59:44             3G-Campinas               CampinasCel          19983227136                Normal              02:30                      0,00
+05/06/2020                   09:20:13             3G-Campinas               CampinasCel          2119991536656              Normal              00:30                      0,00
+05/06/2020                   09:32:55             3G-Campinas               CampinasCel          19989864124                Normal              00:30                      0,00
+05/06/2020                   09:35:12             3G-Campinas               CampinasCel          19991785905                Normal              01:30                      0,00
+05/06/2020                   09:41:47             3G-Campinas               CampinasCel          19993865664                Normal              00:30                      0,00
+05/06/2020                   09:55:03             3G-Campinas               CampinasCel          19999495270                Normal              02:00                      0,00
+05/06/2020                   10:03:47             3G-Campinas               CampinasCel          19971138284                Normal              02:00                      0,00
+05/06/2020                   10:17:35             3G-Campinas               CampinasCel          19971676224                Normal              02:30                      0,00
+05/06/2020                   11:36:08             3G-Campinas               CampinasCel          019997879804               Normal              01:30                      0,00
+05/06/2020                   11:51:06             3G-Campinas               CampinasCel          019992324765               Normal              03:00                      0,00
+05/06/2020                   12:05:36             3G-Campinas               Campinas             21216472                   Normal              01:00                      0,00
+05/06/2020                   13:46:59             3G-Campinas               CampinasCel          19998488735                Normal              03:30                      0,00
+05/06/2020                   13:50:33             3G-Campinas               CampinasCel          19992288252                Normal              02:00                      0,00
+05/06/2020                   13:52:46             3G-Campinas               CampinasCel          19993679392                Normal              03:00                      0,00
+05/06/2020                   14:40:50             3G-Campinas               CampinasCel          19987629597                Normal              00:30                      0,00
+05/06/2020                   14:46:00             3G-Campinas               CampinasCel          19997115554                Normal              01:00                      0,00
+05/06/2020                   15:11:57             3G-Campinas               CampinasCel          19982559093                Normal              02:00                      0,00
+05/06/2020                   15:52:48             3G-Campinas               CampinasCel          19982559093                Normal              02:30                      0,00
+Subtotal            791:00                     0,00
+Minutos  longa  distância( Outras Operadoras   )
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+05/05/2020                   08:39:24             Claro-CAMPINAS            SãoPaulo             11982749022                Normal              19:06                     14,56
+08/05/2020                   13:23:15             Claro-CAMPINAS            SãoPaulo             11961836202                Normal              02:42                      2,06
+12/05/2020                   14:34:48             Claro-CAMPINAS            SãoPaulo             11982749022                Normal              06:48                      5,18
+12/05/2020                   14:42:13             Claro-CAMPINAS            SãoPaulo             11982749022                Normal              00:54                      0,69
+14/05/2020                   12:03:34             Claro-CAMPINAS            SãoPaulo             11982749022                Normal              01:12                      0,91
+19/05/2020                   13:17:16             Claro-CAMPINAS            SãoPaulo             11961836202                Normal              05:30                      4,19
+22/05/2020                   10:54:43             Claro-CAMPINAS            SãoPaulo             11982749022                Normal              01:24                      1,07
+Subtotal            37:36                    28,66
+Minutos  longa  distânciaNextel
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+07/05/2020                   13:20:36             3G-Campinas               SãoPauloCel          11951218351                Único               01:30                      0,00
+Página   7 de  10
+
+Minutos  longa  distânciaNextel
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+07/05/2020                   13:23:45             3G-Campinas               SãoPauloCel          11976248595                Único               01:30                      0,00
+07/05/2020                   18:11:07             3G-Campinas               SãoPauloCel          09911983684603             Único               01:30                      0,00
+08/05/2020                   11:22:30             3G-Campinas               CuritibaCel          41996010035                Único               01:00                      0,00
+09/05/2020                   11:50:48             3G-Curitiba               CampinasCel          09919987281410             Único               02:00                      0,00
+09/05/2020                   12:51:48             3G-Sorocaba               CampinasCel          09919993679392             Único               02:30                      0,00
+09/05/2020                   14:43:20             3G-Santos                 CampinasCel          19998686277                Único               02:30                      0,00
+12/05/2020                   11:18:33             3G-Campinas               SãoPaulo             1137778456                 Único               04:00                      0,00
+12/05/2020                   16:52:59             3G-Campinas               RibPreto             1621049699                 Único               01:00                      0,00
+13/05/2020                   10:18:30             3G-Campinas               SãoPaulo             1136464390                 Único               02:30                      0,00
+14/05/2020                   15:47:51             3G-Campinas               SãoPaulo             1136464390                 Único               01:30                      0,00
+14/05/2020                   15:50:13             3G-Campinas               SãoPaulo             0991136464390              Único               02:30                      0,00
+19/05/2020                   11:24:40             3G-Campinas               SãoPaulo             1136464390                 Único               00:30                      0,00
+19/05/2020                   13:03:08             3G-Campinas               SãoPaulo             1136464390                 Único               04:00                      0,00
+19/05/2020                   15:45:01             3G-Campinas               SãoPauloCel          11970282046                Único               07:30                      0,00
+20/05/2020                   11:04:36             3G-Campinas               SãoPauloCel          11951218351                Único               02:00                      0,00
+21/05/2020                   16:01:31             3G-Campinas               SãoPauloCel          11997351557                Único               05:30                      0,00
+22/05/2020                   12:14:22             3G-Campinas               SãoPauloCel          11982749022                Único               11:00                      0,00
+26/05/2020                   10:36:43             3G-Campinas               SorocabaCel          15991467438                Único               00:30                      0,00
+26/05/2020                   11:13:19             3G-Campinas               SãoPauloCel          11983602474                Único               00:30                      0,00
+01/06/2020                   13:39:59             3G-Campinas               SorocabaCel          15998344392                Único               00:30                      0,00
+03/06/2020                   13:40:12             3G-Campinas               SorocabaCel          15998344392                Único               01:30                      0,00
+03/06/2020                   15:25:11             3G-Campinas               SãoPaulo             1149915000                 Único               02:00                      0,00
+03/06/2020                   17:17:09             3G-Campinas               SãoPauloCel          09911985424589             Único               04:30                      0,00
+04/06/2020                   09:16:47             3G-Campinas               SãoPaulo             1136464390                 Único               07:30                      0,00
+04/06/2020                   10:44:48             3G-Campinas               SãoPaulo             1149915000                 Único               04:30                      0,00
+04/06/2020                   11:24:02             3G-Campinas               SãoPauloCel          11998892282                Único               03:00                      0,00
+Subtotal            79:00                      0,00
+Outras  Chamadas
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+06/05/2020                   15:44:28             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+09/05/2020                   14:37:38             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+13/05/2020                   18:47:25             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+14/05/2020                   01:13:17             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+15/05/2020                   10:35:37             3G-Campinas               VoiceMail            *100                       Único               01:24                      0,00
+15/05/2020                   13:25:52             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+22/05/2020                   01:05:32             3G-CentralNextel          VoiceMail            5511953999621              Único               00:42                      0,00
+22/05/2020                   10:55:40             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+03/06/2020                   12:55:47             3G-Campinas               Serviço0800          08006377246                Único               01:00                      0,00
+05/06/2020                   11:58:05             3G-CentralNextel          VoiceMail            5511953999621              Único               02:18                      0,00
+Subtotal            08:24                      0,00
+Detalhamento   • Serviços Avulsos
+SMS  Nextel
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa                                ValorR$
+19/05/2020                   16:47:01             Claro                     Campinas             19974069026                Único                                          0,00
+05/06/2020                   08:54:04             3G-Campinas               Campinas             19981257100                Único                                          0,00
+05/06/2020                   08:54:33             3G-Campinas               Campinas             19981257100                Único                                          0,00
+Subtotal                                       0,00
+Serviços de Terceiro Assinatura
+Data                         Hora                 Tipo                      Serviço                                         Quantidade                                  ValorR$
+20/05/2020                   00:00:00             Assinatura                PacotedeServiço                                 1                                              0,00
+Promocional
+Subtotal                                       0,00
+Detalhamento   • Serviços de Dados
+_ Internet
+Data                         Hora                 Origem                    Quantidade                                      TipodeTarifa                                ValorR$
+06/05/2020                   00:00:00             CentralNextel             56MB 838KB                                      Único                                          0,00
+07/05/2020                   00:00:00             CentralNextel             48MB 46KB                                       Único                                          0,00
+08/05/2020                   00:00:00             CentralNextel             150MB 491KB                                     Único                                          0,00
+09/05/2020                   00:00:00             CentralNextel             92MB 446KB                                      Único                                          0,00
+10/05/2020                   00:00:00             CentralNextel             15MB 135KB                                      Único                                          0,00
+11/05/2020                   00:00:00             CentralNextel             43MB 686KB                                      Único                                          0,00
+12/05/2020                   00:00:00             CentralNextel             87MB 119KB                                      Único                                          0,00
+13/05/2020                   00:00:00             CentralNextel             64MB 423KB                                      Único                                          0,00
+14/05/2020                   00:00:00             CentralNextel             94MB 1023KB                                     Único                                          0,00
+15/05/2020                   00:00:00             CentralNextel             14MB 780KB                                      Único                                          0,00
+16/05/2020                   00:00:00             CentralNextel             4MB 989KB                                       Único                                          0,00
+17/05/2020                   00:00:00             CentralNextel             3MB 100KB                                       Único                                          0,00
+18/05/2020                   00:00:00             CentralNextel             134MB 859KB                                     Único                                          0,00
+19/05/2020                   00:00:00             CentralNextel             73MB 392KB                                      Único                                          0,00
+20/05/2020                   00:00:00             CentralNextel             106MB 851KB                                     Único                                          0,00
+21/05/2020                   00:00:00             CentralNextel             54MB 157KB                                      Único                                          0,00
+22/05/2020                   00:00:00             CentralNextel             14MB 925KB                                      Único                                          0,00
+23/05/2020                   00:00:00             CentralNextel             155MB 996KB                                     Único                                          0,00
+24/05/2020                   00:00:00             CentralNextel             22MB 654KB                                      Único                                          0,00
+25/05/2020                   00:00:00             CentralNextel             40MB 523KB                                      Único                                          0,00
+26/05/2020                   00:00:00             CentralNextel             77MB 4KB                                        Único                                          0,00
+27/05/2020                   00:00:00             CentralNextel             100MB 168KB                                     Único                                          0,00
+28/05/2020                   00:00:00             CentralNextel             23MB 158KB                                      Único                                          0,00
+29/05/2020                   00:00:00             CentralNextel             286MB 877KB                                     Único                                          0,00
+30/05/2020                   00:00:00             CentralNextel             6MB 809KB                                       Único                                          0,00
+31/05/2020                   00:00:00             CentralNextel             0MB 470KB                                       Único                                          0,00
+01/06/2020                   00:00:00             CentralNextel             76MB 664KB                                      Único                                          0,00
+02/06/2020                   00:00:00             CentralNextel             85MB 580KB                                      Único                                          0,00
+03/06/2020                   00:00:00             CentralNextel             66MB 583KB                                      Único                                          0,00
+04/06/2020                   00:00:00             CentralNextel             118MB 623KB                                     Único                                          0,00
+05/06/2020                   00:00:00             CentralNextel             142MB 53KB                                      Único                                          0,00
+Subtotal                                       0,00
+Página   8 de  10
+Detalhes  da linha: 19  974028067
+Demonstrativos       de  serviços   • O  que  foi  contratado:
+Planos                                Período                              Planode Serviço                                                                             ValorR$
+06/05/2020à05/06/2020                SMART20GB+Ilimitado193/Pós/SMP                                                                244,96
+Subtotal                                                                                                                          244,96
+PacotesAdicionais                     Período                              Planode Serviço                                                                             ValorR$
+06/05/2020à05/06/2020                RoamingNac.Pos                                                                                 0,00
+06/05/2020à19/05/2020                BonusRecorrente7GB                                                                             0,00
+Subtotal                                                                                                                            0,00
+Demonstrativos       de  serviços   • O  que  foi  utilizado:
+ChamadasTelefônicas                   TipodeChamada                                Utilizado         Ilimitadasou        InclusoPlano           Excedente              ValorR$
+(Minutos)        Grátis(Minutos)    ouPacote(Minutos)         (Minutos)
+Minutoslocais                                 68:00               68:00               00:00                 00:00                    0,00
+MinutoslongadistânciaNextel                   19:30               19:30               00:00                 00:00                    0,00
+OutrasChamadas                                01:18               01:18               00:00                 00:00                    0,00
+Subtotal                                      88:48               88:48               00:00                 00:00                   0,00
+ServiçosAvulsos                       Tipo                                         Utilizado                             InclusoPlano           Excedente              ValorR$
+(Unidades)                         ou Pacote(Unidades)       (Unidades)
+ServiçosdeTerceiroAssinatura                    0                                       0                     0                      0,00
+Subtotal                                                                                                                            0,00
+ServiçosdeDados                       TipodeChamada                                Utilizado                             InclusoPlano           Excedente              ValorR$
+(Unidades)                         ou Pacote(Unidades)       (Unidades)
+_Internet                                 2.642MB721KB                            2.642MB721KB             0MB0 KB                   0,00
+Subtotal                                                                                                                            0,00
+Totalda linha:19-974028067          244,96
+Detalhamento   • Chamadas    Telefonicas
+
+Minutos  locais
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+08/05/2020                   10:53:32             3G-Campinas               CampinasCel          19996061566                Normal              01:30                      0,00
+08/05/2020                   11:18:56             3G-Campinas               Campinas             1932842500                 Normal              02:00                      0,00
+08/05/2020                   16:15:04             3G-Campinas               CampinasCel          997271002                  Normal              01:00                      0,00
+12/05/2020                   12:03:48             3G-Campinas               Campinas             32950045                   Normal              06:00                      0,00
+13/05/2020                   13:41:38             3G-Campinas               Campinas             991932510125               Normal              01:30                      0,00
+13/05/2020                   17:02:04             3G-Campinas               CampinasCel          19974175538                Normal              04:30                      0,00
+16/05/2020                   11:39:19             3G-Campinas               Campinas             32510125                   FinaisdeSemana      01:30                      0,00
+17/05/2020                   19:21:34             3G-Campinas               Campinas             1932510125                 FinaisdeSemana      01:00                      0,00
+19/05/2020                   11:20:01             3G-Campinas               Campinas             1932510125                 Normal              01:30                      0,00
+19/05/2020                   11:25:21             3G-Campinas               CampinasCel          19998391116                Normal              04:30                      0,00
+20/05/2020                   16:21:46             3G-Campinas               CampinasCel          19974140058                Único               01:00                      0,00
+21/05/2020                   11:45:59             3G-Campinas               CampinasCel          19981219938                Normal              07:00                      0,00
+21/05/2020                   12:09:48             3G-Campinas               Campinas             33247289                   Normal              01:00                      0,00
+22/05/2020                   14:39:08             3G-Campinas               CampinasCel          19984211300                Normal              04:30                      0,00
+22/05/2020                   19:25:30             3G-Campinas               CampinasCel          19974140058                Único               00:30                      0,00
+22/05/2020                   19:47:23             3G-Campinas               CampinasCel          19974140058                Único               01:30                      0,00
+26/05/2020                   13:45:05             3G-Campinas               CampinasCel          19991189672                Normal              00:30                      0,00
+29/05/2020                   14:28:12             3G-Campinas               CampinasCel          19998368900                Normal              01:00                      0,00
+30/05/2020                   11:57:06             3G-Campinas               CampinasCel          19997891295                FinaisdeSemana      02:00                      0,00
+01/06/2020                   14:35:24             3G-Campinas               Campinas             32510125                   Normal              09:00                      0,00
+03/06/2020                   14:17:04             3G-Campinas               Campinas             33247289                   Normal              01:00                      0,00
+03/06/2020                   15:10:04             3G-Campinas               Campinas             32510125                   Normal              01:00                      0,00
+03/06/2020                   18:35:57             3G-Campinas               CampinasCel          19974175538                Normal              12:30                      0,00
+05/06/2020                   13:03:18             3G-Campinas               CampinasCel          19998391116                Normal              00:30                      0,00
+Subtotal            68:00                      0,00
+Minutos  longa  distânciaNextel
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+09/05/2020                   16:11:53             3G-Campinas               MteClarosCel         9938991880823              Único               00:30                      0,00
+09/05/2020                   16:35:43             3G-Campinas               MteClarosCel         9938991880823              Único               01:30                      0,00
+11/05/2020                   12:01:49             3G-Campinas               MteClarosCel         9938991880823              Único               04:00                      0,00
+16/05/2020                   15:05:34             3G-Campinas               MteClarosCel         9938991880823              Único               03:00                      0,00
+18/05/2020                   13:47:15             3G-Campinas               MteClarosCel         9938991880823              Único               04:30                      0,00
+18/05/2020                   16:18:12             3G-Campinas               MteClarosCel         9938991880823              Único               06:00                      0,00
+Subtotal            19:30                      0,00
+Outras  Chamadas
+Data                         Hora                 Origem                    Destino              NºChamado                  TipodeTarifa        Min/Dur                 ValorR$
+12/05/2020                   14:12:23             3G-CentralNextel          VoiceMail            5511953999621              Único               00:30                      0,00
+12/05/2020                   15:22:44             3G-Campinas               VoiceMail            *100                       Único               00:48                      0,00
+Subtotal            01:18                      0,00
+Detalhamento   • Serviços Avulsos
+Serviços de Terceiro Assinatura
+Data                         Hora                 Tipo                      Serviço                                         Quantidade                                  ValorR$
+20/05/2020                   00:00:00             Assinatura                PacotedeServiço                                 1                                              0,00
+Promocional
+Subtotal                                       0,00
+Página   9 de  10
+
+Detalhamento   • Serviços de Dados
+_ Internet
+Data                         Hora                 Origem                    Quantidade                                      TipodeTarifa                                ValorR$
+05/05/2020                   00:00:00             CentralNextel             5MB 77KB                                        Único                                          0,00
+06/05/2020                   00:00:00             CentralNextel             381MB 499KB                                     Único                                          0,00
+07/05/2020                   00:00:00             CentralNextel             35MB 715KB                                      Único                                          0,00
+08/05/2020                   00:00:00             CentralNextel             96MB 17KB                                       Único                                          0,00
+09/05/2020                   00:00:00             CentralNextel             514MB 541KB                                     Único                                          0,00
+10/05/2020                   00:00:00             CentralNextel             6MB 475KB                                       Único                                          0,00
+11/05/2020                   00:00:00             CentralNextel             58MB 68KB                                       Único                                          0,00
+12/05/2020                   00:00:00             CentralNextel             6MB 590KB                                       Único                                          0,00
+13/05/2020                   00:00:00             CentralNextel             56MB 187KB                                      Único                                          0,00
+14/05/2020                   00:00:00             CentralNextel             40MB 193KB                                      Único                                          0,00
+15/05/2020                   00:00:00             CentralNextel             27MB 140KB                                      Único                                          0,00
+16/05/2020                   00:00:00             CentralNextel             70MB 748KB                                      Único                                          0,00
+17/05/2020                   00:00:00             CentralNextel             0MB 135KB                                       Único                                          0,00
+18/05/2020                   00:00:00             CentralNextel             29MB 612KB                                      Único                                          0,00
+19/05/2020                   00:00:00             CentralNextel             19MB 539KB                                      Único                                          0,00
+20/05/2020                   00:00:00             CentralNextel             76MB 373KB                                      Único                                          0,00
+21/05/2020                   00:00:00             CentralNextel             185MB 89KB                                      Único                                          0,00
+22/05/2020                   00:00:00             CentralNextel             16MB 64KB                                       Único                                          0,00
+23/05/2020                   00:00:00             CentralNextel             152MB 526KB                                     Único                                          0,00
+24/05/2020                   00:00:00             CentralNextel             0MB 114KB                                       Único                                          0,00
+25/05/2020                   00:00:00             CentralNextel             27MB 739KB                                      Único                                          0,00
+26/05/2020                   00:00:00             CentralNextel             104MB 314KB                                     Único                                          0,00
+27/05/2020                   00:00:00             CentralNextel             280MB 12KB                                      Único                                          0,00
+28/05/2020                   00:00:00             CentralNextel             46MB 530KB                                      Único                                          0,00
+29/05/2020                   00:00:00             CentralNextel             114MB 336KB                                     Único                                          0,00
+30/05/2020                   00:00:00             CentralNextel             83MB 961KB                                      Único                                          0,00
+01/06/2020                   00:00:00             CentralNextel             1MB 524KB                                       Único                                          0,00
+02/06/2020                   00:00:00             CentralNextel             73MB 458KB                                      Único                                          0,00
+03/06/2020                   00:00:00             CentralNextel             41MB 34KB                                       Único                                          0,00
+04/06/2020                   00:00:00             CentralNextel             45MB 916KB                                      Único                                          0,00
+05/06/2020                   00:00:00             CentralNextel             46MB 459KB                                      Único                                          0,00
+Subtotal                                       0,00
+NOTA    FISCAL
+C.F.O.P.:5303
+Cliente:CMDMOTORS  LTDA                                       CNPJ/CPF:05124695000307                                                   DatadeEmissão:06/06/2020
+Endereço:AvJOSE DESOUZA CAMPOS,  2254-                        InscriçãoEstadual:244912805110                                            DatadeVencimento:25/06/2020
+NOVA CAMPINAS                                         Número do Cliente:5.34564.12                                              PeríododeUtilização:06/05/2020à05/06/2020
+
+NOTA    FISCAL   FATURA     DE  SERVIÇOS     DE  TELECOMUNICAÇÕES
+NÚMERO  DA NF:000295797        SÉRIE:A                  Subsérie:28
+CLAROS.A.
+RegimeEspecial:212VIA:ÚnicaCFOP:5303                         C.N.P.J.:40.432.544/0001-47
+NaturezadaOperação:ServiçodeTelecomunicações                 INSC.ESTADUAL:114.814.878.119                                                         RESERVADOAO FISCO
+RuaHenriDunant,780-TorreAeB-Bairro:SantoAmaro-CEP04709-110-SãoPaulo-SP                                                                      23CFF421EED6224B78AFF93B7E76436D
+Seq.   Descrição                             Valor(R$)           ICMS(%)              ValorICMS(R$)       Cofins(%)            ValorCofins(R$)      PIS(%)              ValorPIS(R$)
+1     ChamadasLongaDistânciaNacional-Claro  28,66               25,00                7,17                 3,00                0,86                 0,65                0,19
+ValorTotaldaNotaFiscal                       28,66                                    7,17                                     0,86                                     0,19
+BasedeCálculoICMS                            28,66
+CONTRIBUIÇÃOPARAFUST(ART.9LEI9998/00)EFUNTTEL(ART18DECRETO3737/01)1,5%dovalordosserviçosnaorepassadaastarifas0,30
+NÚMERO  DA NF:027837456        SÉRIE:AA                 Subsérie:
+NextelTelecomunicaçõesLtda.
+RegimeEspecial:SF5-258118/99de04/04/2001VIA:ÚnicaCFOP:5303   C.N.P.J.:66.970.229/0001-67
+NaturezadaOperação:ServiçodeTelecomunicações                 INSC.ESTADUAL:114.166.101.115                                                         RESERVADOAO FISCO
+Av.NaçõesUnidas,14171-27ºAndar-CrystalTower/RochaveráCorporateTowers-VilaGertrudes-CEP04794-000-Matriz-SP                                   B6CAFE38C8111DE931807396EBE165ED
+Seq.   Descrição                             Valor(R$)           ICMS(%)              ValorICMS(R$)       Cofins(%)            ValorCofins(R$)      PIS(%)              ValorPIS(R$)
+1     4GVoz-Franquia                        19,68               25,00                4,92                 3,00                0,59                 0,65                0,13
+2     PacotePromocionalServiços4G           138,59              0,00                 0,00                 7,60                10,54                1,65                2,28
+3     Coleçãoe-Books                        63,47               0,00                 0,00                 0,00                0,00                 0,00                0,00
+4     4GSMS-Franquia                        2,60                25,00                0,65                 3,00                0,08                 0,65                0,02
+5     4GDados-Franquia                      225,62              25,00                56,41                3,00                6,77                 0,65                1,47
+ValorTotaldaNotaFiscal                       449,96                                   61,98                                    17,98                                    3,90
+BasedeCálculoICMS                            247,90
+CONTRIBUIÇÃOPARAFUST(ART.9LEI9998/00)EFUNTTEL(ART18DECRETO3737/01)1,5%dovalordosserviçosnaorepassadaastarifas2,64
+2ª via
+Página   10 de  10
+Informaçõesimportantes:Casovocêtenhaadquiridoumalinhanova,aopagaroboletodataxadehabilitação,vocêestaráconfirmandoseuaceiteparasetornarcliente3G/4GdaNextelecontinuarusandoo
+serviço.
+CentraldeAtendimentoaoDeficienteAuditivoe/oudafala:0800-2006636.CentraldeAtendimentoAnatel:1331eCentraldeIntermediaçãoAnatel(deficientes):1332.
+Dúvidas, detalhamento de chamadas (que pode ser solicitado por meio impresso, de forma permanente ou não), instruções de pagamento, fatura em braile: acesse www.nextel.com.br ou ligue 1050 (de
+qualquertelefone).
+Emcasodedúvida,acessenossoWhatsappDDD11947741050.
+InformaçãoTributária:Coleçõese-book.Imunidadeconf.art.150,incisoVI,alínea'd'daCF/88
+InstruçõesdepagamentoOpagamentodestacontanãoquitadébitosanteriores.Sobreacontapagaapósovencimentoincidirámultade2%e
+jurosdemorade0,033%aodiaaseremincluídasemcontafutura.
+Oscódigosdeseleçãodeprestadorasdelongadistânciasão:12CTBC,13Fonar,14BrasilTelecom,15Vivo,17Transit,18Spin,21Embratel,24
+Dialdata,25GVT,26IDT,27Aerotech,29T-Leste,31Oi,32Convergia,34ETML,35Easytone,36DSLIVox,37GoldenLine,38TESA,39Espelhinhos,
+41Tim,42GTGroup,43Sercomtel,45GlobalCrossin,46Hoje,47BTCommunications,49Cambridge,53Ostara,56Espas,57ITAVoice,58Stellar,
+61Nexus,62Option,63HelloBrazil,65CGBVoip,71Dollarphone,72Locaweb73Plumium,74CaboServicos,75Vipway,76SmartVOIP,81Datora,
+85AmericaNET,87HitTelecom,89Konecta,91Falkland,96AmigoTelecom,98AlphaNobilis.
